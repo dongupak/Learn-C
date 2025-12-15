@@ -2,7 +2,7 @@
 
 * 온라인 구매 링크 : [[YES24]]([https://www.yes24.com/product/goods/165325499](https://www.yes24.com/product/goods/165325499))
 <p align="center">
-  <img src="github-image/Learn-C.png" width=450px>
+  <img src="github-image/Learn-C-book.png" width=450px>
 </p>
 
 ***
