@@ -1,6 +1,6 @@
 # 이 저장소는 생능 출판사 "따라하며 배우는 C 언어" 책의 독자님을 위한 정보제공 공간입니다.
 
-* 온라인 구매 링크 : [[YES24]]([https://www.yes24.com/product/goods/165325499](https://www.yes24.com/product/goods/165325499))
+* 온라인 구매 링크 : [[YES24]](https://www.yes24.com/product/goods/165325499)
 <p align="center">
   <img src="github-image/Learn-C-book.png" width=450px>
 </p>
