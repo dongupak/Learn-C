@@ -22,9 +22,9 @@
 
 ***
 # 책의 소스코드
-* [코드](https://github.com/dongupak/Learn-C/blob/master/src)
+* [책의 코드 - C 코드와 헤드 파일 등](https://github.com/dongupak/Learn-C/blob/master/src)
   
 ***
 # 책의 목차
-* [목차](https://github.com/dongupak/Learn-C/blob/master/contents.md)
+* [책의 목차](https://github.com/dongupak/Learn-C/blob/master/contents/README.md)
 : 책의 목차를 제공합니다.
